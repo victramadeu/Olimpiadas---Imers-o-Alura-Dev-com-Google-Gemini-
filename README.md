@@ -1,4 +1,4 @@
-## **README.md Descontraído para o seu Projeto**
+## **Atletas Brasileiros - Projeto da Imersão Alura**
 
 ### **TL;DR:** Uma busca rápida e fácil por atletas brasileiros! 
 
